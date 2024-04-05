@@ -7,3 +7,5 @@ Day 4 : Median of two sorted array<br/>
 Day 5 : Contains Duplicate<br/>
 Day 6 : 3 Sum<br/>
 Day 7 : Reverse Integer<br/>
+Day 8 : Merge Sorted Arrays.<br/>
+Day 9 : 
