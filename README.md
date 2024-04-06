@@ -9,3 +9,4 @@ Day 6 : 3 Sum<br/>
 Day 7 : Reverse Integer<br/>
 Day 8 : Merge Sorted Arrays.<br/>
 Day 9 : Rotate Array<br/>
+Day 10 : Split the Array<br/>
