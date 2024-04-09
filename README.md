@@ -11,3 +11,4 @@ Day 8 : Merge Sorted Arrays.<br/>
 Day 9 : Rotate Array<br/>
 Day 10 : Split the Array<br/>
 Day 11 : Palindrome Number<br/>
+Day 12 : Zigzag Conversion<br/>
