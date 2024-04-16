@@ -18,3 +18,4 @@ Day 15 : Multiply Strings<br/>
 Day 16 : 4Sum<br/>
 Day 17 : Swap Nodes in Pairs<br/>
 Day 18 : 3Sum Closest<br/>
+Day 19 : Pow(x, n)<br/>
