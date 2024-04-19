@@ -21,3 +21,5 @@ Day 18 : 3Sum Closest<br/>
 Day 19 : Pow(x, n)<br/>
 Day 20 : Power of Two<br/>
 Day 21 : Integer to Roman<br/>
+Day 22 : Roman to Integer<br/>
+Day 23 : Longest Common Prefix<br/>
