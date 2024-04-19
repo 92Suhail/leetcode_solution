@@ -19,3 +19,5 @@ Day 16 : 4Sum<br/>
 Day 17 : Swap Nodes in Pairs<br/>
 Day 18 : 3Sum Closest<br/>
 Day 19 : Pow(x, n)<br/>
+Day 20 : Power of Two<br/>
+Day 21 : Integer to Roman<br/>
