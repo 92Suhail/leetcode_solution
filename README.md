@@ -23,3 +23,5 @@ Day 20 : Power of Two<br/>
 Day 21 : Integer to Roman<br/>
 Day 22 : Roman to Integer<br/>
 Day 23 : Longest Common Prefix<br/>
+Day 24 : Generate Parentheses<br/>
+Day 25 : Remove Element<br/>
