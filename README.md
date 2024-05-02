@@ -26,3 +26,5 @@ Day 23 : Longest Common Prefix<br/>
 Day 24 : Generate Parentheses<br/>
 Day 25 : Remove Element<br/>
 Day 26 : Divide Two Integers<br/>
+Day 27 : Length of Last Word<br/>
+Day 28 : Rotate List<br/>
