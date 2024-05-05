@@ -28,3 +28,5 @@ Day 25 : Remove Element<br/>
 Day 26 : Divide Two Integers<br/>
 Day 27 : Length of Last Word<br/>
 Day 28 : Rotate List<br/>
+Day 29 : Letter Combinations of a Phone Number<br/>
+Day 30 : String to Integer (atoi)<br/>
