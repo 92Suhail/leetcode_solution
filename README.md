@@ -32,3 +32,4 @@ Day 29 : Letter Combinations of a Phone Number<br/>
 Day 30 : String to Integer (atoi)<br/>
 Day 31 : Valid Parentheses<br/>
 Day 32 : Merge Two Sorted Lists<br/>
+Day 33 : Remove Duplicates from Sorted Array<br/>
