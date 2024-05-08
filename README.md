@@ -33,3 +33,5 @@ Day 30 : String to Integer (atoi)<br/>
 Day 31 : Valid Parentheses<br/>
 Day 32 : Merge Two Sorted Lists<br/>
 Day 33 : Remove Duplicates from Sorted Array<br/>
+Day 34 : Find the Index of the First Occurrence in a String<br/>
+Day 35 : Search Insert Position<br/>
