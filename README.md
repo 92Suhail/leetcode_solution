@@ -35,3 +35,7 @@ Day 32 : Merge Two Sorted Lists<br/>
 Day 33 : Remove Duplicates from Sorted Array<br/>
 Day 34 : Find the Index of the First Occurrence in a String<br/>
 Day 35 : Search Insert Position<br/>
+Day 36 : Plus One<br/>
+Day 37 : Add Binary<br/>
+Day 38 : Sqrt(x)<br/>
+Day 39 : Climbing Stairs<br/>
