@@ -41,3 +41,7 @@ Day 38 : Sqrt(x)<br/>
 Day 39 : Climbing Stairs<br/>
 Day 40 : Remove Duplicates from Sorted List<br/>
 Day 41 : Binary Tree Inorder Traversal<br/>
+Day 42 : Remove Nth Node From End of List<br/>
+Day 43 : Minimal Path Sum<br/>
+Day 44 : Maximum Depth of Binary Tree<br/>
+Day 45 : Contains Duplicate ||<br/>
