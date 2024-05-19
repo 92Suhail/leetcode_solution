@@ -45,3 +45,5 @@ Day 42 : Remove Nth Node From End of List<br/>
 Day 43 : Minimal Path Sum<br/>
 Day 44 : Maximum Depth of Binary Tree<br/>
 Day 45 : Contains Duplicate ||<br/>
+Day 46 : Remove Linked List Elements<br/>
+Day 47 : Add Digits<br/>
