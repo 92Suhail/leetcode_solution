@@ -49,3 +49,7 @@ Day 46 : Remove Linked List Elements<br/>
 Day 47 : Add Digits<br/>
 Day 48 : Moves Zeroes<br/>
 Day 49 : Power of Three<br/>
+Day 50 : Power of Four<br/>
+Day 51 : Reverse String<br/>
+Day 52 : Intersection of Two Arrays<br/>
+Day 53 : Intersection of Two Arrays ||<br/>
