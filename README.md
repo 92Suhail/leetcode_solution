@@ -53,3 +53,6 @@ Day 50 : Power of Four<br/>
 Day 51 : Reverse String<br/>
 Day 52 : Intersection of Two Arrays<br/>
 Day 53 : Intersection of Two Arrays ||<br/>
+Day 54 : Valid Perfect Square<br/>
+Day 55 : Find the Difference<br/>
+Day 56 : Third Maximum Number<br/>
