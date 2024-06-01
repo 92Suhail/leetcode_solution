@@ -56,3 +56,5 @@ Day 53 : Intersection of Two Arrays ||<br/>
 Day 54 : Valid Perfect Square<br/>
 Day 55 : Find the Difference<br/>
 Day 56 : Third Maximum Number<br/>
+Day 57 : Add Strings<br/>
+Day 58 : First Unique Character in a String<br/>
