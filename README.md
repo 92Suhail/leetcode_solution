@@ -58,3 +58,7 @@ Day 55 : Find the Difference<br/>
 Day 56 : Third Maximum Number<br/>
 Day 57 : Add Strings<br/>
 Day 58 : First Unique Character in a String<br/>
+Day 59 : Fibonacci Number<br/>
+Day 60 : Perfect Number<br/>
+Day 61 : Missing Number<br/>
+Day 62 : Student Attendance Record |<br/>
