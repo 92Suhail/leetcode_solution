@@ -71,3 +71,4 @@ Day 68 : Regular Expression Matching<br/>
 Day 69 : Permutation ||<br/>
 Day 70 : Combination Sum<br/>
 Day 71 : Combination Sum ||<br/>
+Day 72 : Valid Palindrome<br/>
