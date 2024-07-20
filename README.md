@@ -77,3 +77,5 @@ Day 74 : Word Break<br/>
 Day 75 : Sort Colors<br/>
 Day 76 : Search in Rotated Sorted Array ||<br/>
 Day 77 : Container With Most Water<br/>
+Day 78 : Pascal's Triangle<br/>
+Day 79 : Range Sum Query - Immutable<br/>
