@@ -15,6 +15,5 @@ Output: [[],[0]]<br/>
 
 
 Answer Approach:<br/>
-For solving this question, (Using bit manipulation approach)<br/>
-Firstly starting with a set to generate all unique subsets of an integer array nums, which may contain duplicates. It begins by sorting nums to facilitate handling duplicates. <br/>
-Then iterating through all possible subsets represented by bitmasks from 0 to 2^n - 1, where n is the length of nums, each subset is constructed by checking each bit of the bitmask to determine inclusion of elements from nums. We create HashSet<List<Integer>> ensures duplicates are avoided, and the resulting subsets are stored. Finally, the set is converted to a list and returned.<br/>
+For solving this question, <br/>
+Firstly initializes with a HashSet result to store unique subsets, sorts nums to group duplicates, and starts with an empty subset. It iterates through each number in nums, generating new subsets by appending the number to existing subsets stored in result. By manipulating a HashSet, duplicates are automatically managed, ensuring only unique subsets are retained. Finally, it converts the HashSet to a List and returns it.<br/>

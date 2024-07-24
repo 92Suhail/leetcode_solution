@@ -1,22 +1,17 @@
-import java.util.*;
-
 class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        List<List<Integer>> result = new ArrayList<>();
+        Set<List<Integer>> result = new HashSet<>();
         Arrays.sort(nums);
-        int n = nums.length;
-        int totalSubsets = 1 << n; 
-        Set<List<Integer>> set = new HashSet<>();
-        for (int mask = 0; mask < totalSubsets; mask++) {
-            List<Integer> subset = new ArrayList<>();
-            for (int i = 0; i < n; i++) {
-                if ((mask & (1 << i)) > 0) {
-                    subset.add(nums[i]);
-                }
+        result.add(new ArrayList<>()); 
+        for (int num : nums) {
+            List<List<Integer>> Subset1 = new ArrayList<>();
+            for (List<Integer> subset : result) {
+                List<Integer> Subset2 = new ArrayList<>(subset);
+                Subset2.add(num);
+                Subset1.add(Subset2);
             }
-            set.add(subset);
+            result.addAll(Subset1);
         }
-        result.addAll(set);
-        return result;
+        return new ArrayList<>(result);
     }
 }
