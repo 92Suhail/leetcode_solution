@@ -92,3 +92,6 @@ Day 89 : Same Tree<br/>
 Day 90 : Path Sum<br/>
 Day 91 : Path Sum ||<br/>
 Day 92 : Word Search<br/>
+Day 93 : Symmetric Tree
+Day 94 : Construct Binary Tree from Preorder and Inorder Traversal<br/>
+Day 95 : Construct Binary Tree from Inorder and Postorder Traversal<br/>
