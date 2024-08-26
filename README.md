@@ -95,3 +95,5 @@ Day 92 : Word Search<br/>
 Day 93 : Symmetric Tree
 Day 94 : Construct Binary Tree from Preorder and Inorder Traversal<br/>
 Day 95 : Construct Binary Tree from Inorder and Postorder Traversal<br/>
+Day 96 : Insertion Sort List<br/>
+Day 97 : Next Permutation<br/>
