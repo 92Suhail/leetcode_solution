@@ -97,3 +97,6 @@ Day 94 : Construct Binary Tree from Preorder and Inorder Traversal<br/>
 Day 95 : Construct Binary Tree from Inorder and Postorder Traversal<br/>
 Day 96 : Insertion Sort List<br/>
 Day 97 : Next Permutation<br/>
+Day 98 : Count Complete Tree Nodes<br/>
+Day 99 : Binary Tree Preorder Traversal<br/>
+Day 100 : Binary Tree Postorder Traversal<br/>
